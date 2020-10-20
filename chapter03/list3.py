@@ -15,5 +15,5 @@ print(all_list)
 
 all_list = [list_a[:], list_a[:], list_a[:]]
 
-all_list[0].append(7)
+all_list[0].append(8)
 print(all_list)
