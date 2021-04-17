@@ -24,7 +24,7 @@ if numbers:
 sora = set()
 if sora:
     print('boi')
-else :
+else:
     print('moi')
 # s
 # s
